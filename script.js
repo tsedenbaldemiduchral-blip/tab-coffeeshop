@@ -28,7 +28,7 @@ const menuItems = [
   {name:"Espresso",category:"coffee",price:"₮  —",descMn:"Баялаг амттай сонгодог кофе",descEn:"A rich and classic coffee"},
   {name:"Americano",category:"coffee",price:"₮  —",descMn:"Эспрессо болон халуун ус",descEn:"Espresso with hot water"},
   {name:"Cappuccino",category:"coffee",price:"₮  —",descMn:"Сүүтэй зөөлөн хөөс",descEn:"Espresso with steamed milk foam"},
-  {name:"Latte",category:"coffee",price:"₮  —",descMn:"Зөөлөн, сүүн амт",descEn:"Smooth espresso and milk"},
+  {name:"Latte",category:"coffee",price:"₮ 8,900",descMn:"Зөөлөн, сүүн амт",descEn:"Smooth espresso and milk"},
   {name:"Matcha Latte",category:"matcha",price:"₮  —",descMn:"Японы матча, сүү",descEn:"Japanese matcha with milk"},
   {name:"Strawberry Matcha",category:"matcha",price:"₮  —",descMn:"Гүзээлзгэнэ, матча, сүүний хослол",descEn:"A fruity blend of strawberry and matcha"},
   {name:"Smoothie",category:"other",price:"₮  —",descMn:"Жимсний сэрүүцүүлэх ундаа",descEn:"A refreshing fruit drink"},
