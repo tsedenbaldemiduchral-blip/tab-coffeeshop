@@ -25,14 +25,14 @@ const translations = {
 
 // EDIT THESE SAMPLE MENU ITEMS AND PRICES BEFORE PUBLISHING.
 const menuItems = [
-  {name:"Espresso",category:"coffee",price:"₮  —",descMn:"Баялаг амттай сонгодог кофе",descEn:"A rich and classic coffee"},
-  {name:"Americano",category:"coffee",price:"₮  —",descMn:"Эспрессо болон халуун ус",descEn:"Espresso with hot water"},
-  {name:"Cappuccino",category:"coffee",price:"₮  —",descMn:"Сүүтэй зөөлөн хөөс",descEn:"Espresso with steamed milk foam"},
+  {name:"Espresso",category:"coffee",price:"₮7,500",descMn:"Баялаг амттай сонгодог кофе",descEn:"A rich and classic coffee"},
+  {name:"Americano",category:"coffee",price:"₮8,500",descMn:"Эспрессо болон халуун ус",descEn:"Espresso with hot water"},
+  {name:"Cappuccino",category:"coffee",price:"₮8,900",descMn:"Сүүтэй зөөлөн хөөс",descEn:"Espresso with steamed milk foam"},
   {name:"Latte",category:"coffee",price:"₮ 8,900",descMn:"Зөөлөн, сүүн амт",descEn:"Smooth espresso and milk"},
-  {name:"Matcha Latte",category:"matcha",price:"₮  —",descMn:"Японы матча, сүү",descEn:"Japanese matcha with milk"},
-  {name:"Strawberry Matcha",category:"matcha",price:"₮  —",descMn:"Гүзээлзгэнэ, матча, сүүний хослол",descEn:"A fruity blend of strawberry and matcha"},
-  {name:"Smoothie",category:"other",price:"₮  —",descMn:"Жимсний сэрүүцүүлэх ундаа",descEn:"A refreshing fruit drink"},
-  {name:"Hot Chocolate",category:"other",price:"₮  —",descMn:"Дулаахан шоколадан ундаа",descEn:"A comforting chocolate drink"}
+  {name:"Matcha Latte",category:"matcha",price:"₮9,500",descMn:"Японы матча, сүү",descEn:"Japanese matcha with milk"},
+  {name:"Strawberry Matcha",category:"matcha",price:"₮10,500",descMn:"Гүзээлзгэнэ, матча, сүүний хослол",descEn:"A fruity blend of strawberry and matcha"},
+  {name:"Smoothie",category:"other",price:"₮11,500",descMn:"Жимсний сэрүүцүүлэх ундаа",descEn:"A refreshing fruit drink"},
+  {name:"Hot Chocolate",category:"other",price:"₮7,900",descMn:"Дулаахан шоколадан ундаа",descEn:"A comforting chocolate drink"}
 ];
 
 // Add confirmed event dates, times and prices here before publishing.
